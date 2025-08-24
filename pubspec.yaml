@@ -1,7 +1,7 @@
 name: awesome_celebration
 description: "A new Flutter package project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/Marwan2595/flutter_awesome_celebration
 
 environment:
   sdk: ^3.5.4
